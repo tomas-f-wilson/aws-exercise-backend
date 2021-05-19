@@ -1,0 +1,9 @@
+{
+  "errors": {
+    "InternalServerError": "Something went wrong. Please try again.",
+    "RouteNotFound": "Route not found",
+    "FieldIsRequired": "Field is required: {{field}}",
+    "UserDoesNotExists": "User does not exists",
+    "InvalidId": "Invalid ID"
+  }
+}

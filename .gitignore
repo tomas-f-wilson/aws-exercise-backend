@@ -1,0 +1,14 @@
+
+node_modules
+jspm_packages
+
+.serverless
+
+.env
+*.env
+*.webpack
+*webpack
+.webpack
+
+.eslintcache
+yarn.lock
