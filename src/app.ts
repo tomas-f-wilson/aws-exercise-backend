@@ -43,7 +43,7 @@ class App {
 
 database.sequelize
     .sync()
-    .then(() => console.log('[Database]: Connected...'))
+    .then(() => console.log('[Database]: Connected....'))
     .catch((err) => console.error(`[Error]: ${err}`))
 
 if (module === require.main) {
